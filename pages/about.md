@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://ignacioemerio.github.io/La_Revoluci-n_a_color/item.html?id=imagen_029" %}
 
-{% include feature/nav-menu.html sections="La Revolución mexicana;About the About Page" %}
+{% include feature/nav-menu.html sections="La Revolución mexicana" %}
 
 ## About the Collection
 
