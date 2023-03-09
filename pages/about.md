@@ -12,16 +12,8 @@ credits: true
 
 {% include feature/nav-menu.html sections="La Revolución mexicana" %}
 
-## La Revolución mexicana
+## La Revolución mexicana a color
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
+¿ El pasado era en blanco y negro? Sonará ridículo y la respuesta puede ser obvia, pero los primeros tipos de fotografías en blanco y negro que abarcaron desde 1850 hasta la década de los cincuenta crean una imágen de ese pasado en solo dos colores. Este repositorio busca cambiar un poco la manera de mirar el pasado, a partir de un proceso importante dentro de la historia de México: La Revolución mexicana.
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
