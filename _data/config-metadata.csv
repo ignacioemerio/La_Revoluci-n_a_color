@@ -1,9 +1,9 @@
 field,display_name,browse_link,external_link
-título,Title,
+title,Titulo,
 creator,Creator,
 date,Date Created,
-descripción,Description,
-subject,Subjects,temas,
+description,Descripción,
+subject,Subjects,
 location,Location,
 latitude,Latitude,
 longitude,Longitude,
