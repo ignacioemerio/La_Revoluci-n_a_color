@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Buscar temas
 
 Utiliza esta página para buscar por temas.
-Word size is determined by frequency and all words link to a corresponding collection search.
+
